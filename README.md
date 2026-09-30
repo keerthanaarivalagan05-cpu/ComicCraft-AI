@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ComicCraft
 
 ComicCraft is an AI-powered comic story creator.
@@ -51,3 +52,6 @@ Download PDF
 ## Installation
 
 Create virtual environment:
+=======
+# ComicCraft-AI
+>>>>>>> d807d04a7cfedcc636a2534b347be9bac11d68a9
